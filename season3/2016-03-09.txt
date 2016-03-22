@@ -6,7 +6,7 @@ Ambushegan: How Loud Is The River
 Rakas: Mike
 Feroz Ka: Jeff
 Kendrell: Seth
-Verrin: NPC
+Verin: NPC
 
 8 soldiers disguised as peasant laborers
 7 soldiers in the fort
@@ -16,4 +16,4 @@ Arrange deadfall adjacent to food stores to block line-of-sight and limit viable
 Set soldier in tree north of food stores monitoring approaches from the river
 Before nightfall, put buckets of water nearby food stores and wet blankets over food stores
 
-Establish a watcher at fort looking out over river; another watching the watcher and looking out for a signal from the ambush site. Verrin will use Dancing Lights to signal either that all but two of the soldiers at the fort should mobilize and come to aid as soon as possible or prepare the for defense if the Shegan force is overwhelming. After nightfall, 8 soldiers and the party sneak out of the fort to the ambush site. One group is north of the food stores, the other is south of it. Verrin will use coded audible animal sounds to indicate to the other group which silent alarm of the four has been tripped.
+Establish a watcher at fort looking out over river; another watching the watcher and looking out for a signal from the ambush site. Verin will use Dancing Lights to signal either that all but two of the soldiers at the fort should mobilize and come to aid as soon as possible or prepare the for defense if the Shegan force is overwhelming. After nightfall, 8 soldiers and the party sneak out of the fort to the ambush site. One group is north of the food stores, the other is south of it. Verin will use coded audible animal sounds to indicate to the other group which silent alarm of the four has been tripped.
