@@ -11,7 +11,7 @@ Verin: NPC
 8 soldiers disguised as peasant laborers
 7 soldiers in the fort
 Dig a pit trap for food stores. Reinforce this during the day to allow safe movement over it, but remove the struts at night to make it an actual trap for Shegans who may try to get close enough to steal or destroy the food stores.
-Verrin will set magic alarms to alert us to multiple otherwise uncovered approaches
+Verin will set magic alarms to alert us to multiple otherwise uncovered approaches
 Arrange deadfall adjacent to food stores to block line-of-sight and limit viable approaches
 Set soldier in tree north of food stores monitoring approaches from the river
 Before nightfall, put buckets of water nearby food stores and wet blankets over food stores
